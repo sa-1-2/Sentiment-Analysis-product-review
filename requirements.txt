@@ -1,0 +1,8 @@
+numpy
+pandas
+nltk
+gensim
+xgboost
+scikit-learn
+flask
+ipykernel
